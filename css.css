@@ -197,6 +197,9 @@ box-sizing: border-box;
 
 @media screen and (max-width: 760px)
 {
+    .container {
+        width: 100%; 
+        padding: 0 20px; 
     div.sidebar {
         display: inline;
         float: inline-end;
