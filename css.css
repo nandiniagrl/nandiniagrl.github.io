@@ -195,7 +195,7 @@ background-color: #97DAAE;
 box-sizing: border-box;
 }
 
-@media screen and (max-width: 600px)
+@media screen and (max-width: 700px)
 {
     div.sidebar {
         display: inline;
