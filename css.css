@@ -1,4 +1,7 @@
-
+@media only screen and (max-width: 800px){
+    flex-direction: column;
+    align-items: center;
+}
 div.nav {
     list-style-type: none;
     margin: 0;
@@ -194,7 +197,7 @@ box-sizing: border-box;
 
 @media screen and (max-width: 760px)
 {
-   
+    
     div.sidebar {
         display: inline;
         float: inline-end;
@@ -226,7 +229,7 @@ box-sizing: border-box;
     
     
     li {
-        font-size: 1.5rem;
+        font-size: 2.5rem;
         padding:0rem;
         list-style: none;
         display: inline;
@@ -369,4 +372,3 @@ box-sizing: border-box;
     background-color: #97DAAE; 
     box-sizing: border-box;
     }
-}
